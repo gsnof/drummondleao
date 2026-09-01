@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Drummond Leão Odontologia</title>
+  <desc id="desc">Monograma DL</desc>
+  <rect width="128" height="128" rx="64" fill="#0b2745"/>
+  <circle cx="64" cy="64" r="52" fill="none" stroke="#caa86a" stroke-width="3"/>
+  <text x="64" y="77" text-anchor="middle" font-family="Georgia, serif" font-size="48" fill="#f8f5ef" letter-spacing="-3">DL</text>
+</svg>
